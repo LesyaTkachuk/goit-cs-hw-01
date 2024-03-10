@@ -36,6 +36,7 @@ For Mac users it could be installed with the help of brew:
 
  - You should see the next result of the execution:
 
+![DosBox assembler program execution result](images/dosbox-result.PNG)
 
 
 # task_2
