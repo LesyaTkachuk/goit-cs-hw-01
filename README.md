@@ -23,9 +23,9 @@ For Mac users it could be installed with the help of brew:
 ![DosBox terminal window general view](images/dosbox-window.png)
 
  - We should mount a disk for .com programs execution running the command below. Use full path to the folder where compiled .com file is placed
-
+```
     mount c /Users/user_name/fullpath/goit-cs-hw-01/task_1
-
+```
  - Then move to the mounted disk:
 ```
     c:
